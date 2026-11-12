@@ -7,6 +7,7 @@ This gallery compares **Expert, FFN, and Layer pruning** through reasoning cover
 | Cumulative generation-token budget | [Qwen](#qwen-cumulative-generation-token-budget), [GLM](#glm-cumulative-generation-token-budget) | [Curves](assets/token_budget_curves.csv), [table at 1,048,576 tokens](assets/token_budget_table_1048576.csv), [evaluation details](assets/TOKEN_BUDGET.md) |
 | Coverage and resource use | [Coverage versus resources](#coverage-and-resource-use), [runtime sweep](#resource-measurements-across-pruning-ratios) | [Coverage/resource CSV](assets/resource_quality.csv), [runtime CSV](assets/runtime_sweep.csv), [measurement details](assets/CAPTIONS.md) |
 | Output length, accuracy, and truncation | [Qwen task panels](#qwen-output-length-diagnostics), [GLM task panels](#glm-output-length-diagnostics) | [Length-diagnostic CSV](assets/length_diagnostics.csv), [definitions](assets/CAPTIONS.md) |
+| Temperature and code coverage | [GLM temperature controls](#glm-code-temperature-controls) | [Curves](assets/glm_code_temperature_curves.csv), [per-problem counts](assets/glm_code_temperature_question_counts.csv), [evaluation details](assets/GLM_CODE_TEMPERATURE.md) |
 | Newly covered problems | [Solution audit](#newly-covered-problems) | [Derivation checks and reproducible enumeration](assets/solution_audit.md) |
 
 ## Qwen: cumulative generation-token budget
@@ -98,6 +99,14 @@ The same panel definitions and 8,192-token limit apply to GLM. All pass@k values
 ![GLM LiveCodeBench-v6 output length, accuracy, and truncation across pruning ratios](assets/length_glm47_lcb.png)
 
 [PNG](assets/length_glm47_lcb.png) · [PDF](assets/length_glm47_lcb.pdf) · [SVG](assets/length_glm47_lcb.svg) · [CSV](assets/length_diagnostics.csv)
+
+## GLM: code temperature controls
+
+![GLM code pass@k curves and endpoint scores across five temperatures](assets/glm_code_temperature.png)
+
+[PNG](assets/glm_code_temperature.png) · [PDF](assets/glm_code_temperature.pdf) · [SVG](assets/glm_code_temperature.svg) · [Summary CSV](assets/glm_code_temperature_summary.csv) · [Full curves](assets/glm_code_temperature_curves.csv)
+
+**Higher temperature lowers single-attempt accuracy while increasing coverage at 256 attempts.** For GLM-4.7-Flash with 50% expert pruning, raising temperature from 0.1 to 0.9 changes pass@1 from 24.86% to 21.26% and pass@256 from 49.14% to 55.43%. All five temperatures use the same evaluator and test suite on 175 LiveCodeBench-v6 problems, with an 8,192-token output limit. The common endpoint is k = 256; temperature 0.7 has 512 responses per problem and the others have 256. See the [evaluation conditions](assets/GLM_CODE_TEMPERATURE.md) for test timeouts, scoring parallelism, and timing sensitivity.
 
 ## Newly covered problems
 
