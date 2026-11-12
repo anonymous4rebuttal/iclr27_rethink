@@ -1,0 +1,481 @@
+backbone,configuration,seed,question_index,correct,responses
+Qwen3.6-35B-A3B,Original,1112,0,256,256
+Qwen3.6-35B-A3B,Original,1112,1,250,256
+Qwen3.6-35B-A3B,Original,1112,2,255,256
+Qwen3.6-35B-A3B,Original,1112,3,237,256
+Qwen3.6-35B-A3B,Original,1112,4,255,256
+Qwen3.6-35B-A3B,Original,1112,5,256,256
+Qwen3.6-35B-A3B,Original,1112,6,234,256
+Qwen3.6-35B-A3B,Original,1112,7,253,256
+Qwen3.6-35B-A3B,Original,1112,8,98,256
+Qwen3.6-35B-A3B,Original,1112,9,32,256
+Qwen3.6-35B-A3B,Original,1112,10,216,256
+Qwen3.6-35B-A3B,Original,1112,11,236,256
+Qwen3.6-35B-A3B,Original,1112,12,66,256
+Qwen3.6-35B-A3B,Original,1112,13,161,256
+Qwen3.6-35B-A3B,Original,1112,14,0,256
+Qwen3.6-35B-A3B,Original,1112,15,239,256
+Qwen3.6-35B-A3B,Original,1112,16,30,256
+Qwen3.6-35B-A3B,Original,1112,17,177,256
+Qwen3.6-35B-A3B,Original,1112,18,250,256
+Qwen3.6-35B-A3B,Original,1112,19,250,256
+Qwen3.6-35B-A3B,Original,1112,20,253,256
+Qwen3.6-35B-A3B,Original,1112,21,196,256
+Qwen3.6-35B-A3B,Original,1112,22,177,256
+Qwen3.6-35B-A3B,Original,1112,23,235,256
+Qwen3.6-35B-A3B,Original,1112,24,249,256
+Qwen3.6-35B-A3B,Original,1112,25,220,256
+Qwen3.6-35B-A3B,Original,1112,26,219,256
+Qwen3.6-35B-A3B,Original,1112,27,6,256
+Qwen3.6-35B-A3B,Original,1112,28,0,256
+Qwen3.6-35B-A3B,Original,1112,29,0,256
+Qwen3.6-35B-A3B,Original,1113,0,256,256
+Qwen3.6-35B-A3B,Original,1113,1,250,256
+Qwen3.6-35B-A3B,Original,1113,2,256,256
+Qwen3.6-35B-A3B,Original,1113,3,231,256
+Qwen3.6-35B-A3B,Original,1113,4,255,256
+Qwen3.6-35B-A3B,Original,1113,5,256,256
+Qwen3.6-35B-A3B,Original,1113,6,239,256
+Qwen3.6-35B-A3B,Original,1113,7,254,256
+Qwen3.6-35B-A3B,Original,1113,8,102,256
+Qwen3.6-35B-A3B,Original,1113,9,27,256
+Qwen3.6-35B-A3B,Original,1113,10,212,256
+Qwen3.6-35B-A3B,Original,1113,11,242,256
+Qwen3.6-35B-A3B,Original,1113,12,65,256
+Qwen3.6-35B-A3B,Original,1113,13,175,256
+Qwen3.6-35B-A3B,Original,1113,14,0,256
+Qwen3.6-35B-A3B,Original,1113,15,246,256
+Qwen3.6-35B-A3B,Original,1113,16,27,256
+Qwen3.6-35B-A3B,Original,1113,17,172,256
+Qwen3.6-35B-A3B,Original,1113,18,248,256
+Qwen3.6-35B-A3B,Original,1113,19,247,256
+Qwen3.6-35B-A3B,Original,1113,20,253,256
+Qwen3.6-35B-A3B,Original,1113,21,203,256
+Qwen3.6-35B-A3B,Original,1113,22,178,256
+Qwen3.6-35B-A3B,Original,1113,23,234,256
+Qwen3.6-35B-A3B,Original,1113,24,249,256
+Qwen3.6-35B-A3B,Original,1113,25,222,256
+Qwen3.6-35B-A3B,Original,1113,26,220,256
+Qwen3.6-35B-A3B,Original,1113,27,7,256
+Qwen3.6-35B-A3B,Original,1113,28,0,256
+Qwen3.6-35B-A3B,Original,1113,29,1,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,0,256,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,1,250,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,2,255,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,3,232,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,4,255,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,5,256,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,6,236,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,7,233,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,8,58,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,9,11,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,10,214,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,11,225,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,12,37,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,13,148,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,14,0,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,15,255,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,16,30,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,17,136,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,18,248,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,19,238,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,20,252,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,21,219,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,22,140,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,23,201,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,24,251,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,25,41,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,26,168,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,27,4,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,28,2,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,29,1,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,0,256,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,1,252,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,2,254,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,3,228,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,4,256,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,5,256,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,6,222,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,7,236,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,8,65,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,9,13,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,10,204,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,11,234,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,12,40,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,13,147,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,14,0,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,15,254,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,16,32,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,17,147,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,18,251,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,19,236,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,20,252,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,21,214,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,22,147,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,23,205,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,24,245,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,25,39,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,26,177,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,27,6,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,28,3,256
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,29,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,0,237,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,1,33,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,2,185,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,3,33,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,4,182,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,5,244,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,6,27,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,7,110,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,8,2,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,9,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,10,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,11,30,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,12,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,13,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,14,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,15,144,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,16,4,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,17,7,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,18,14,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,19,76,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,20,140,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,21,77,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,22,16,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,23,96,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,24,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,25,19,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,26,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,27,1,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,28,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,29,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,0,234,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,1,33,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,2,202,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,3,49,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,4,185,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,5,250,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,6,24,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,7,101,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,8,4,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,9,1,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,10,1,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,11,22,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,12,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,13,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,14,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,15,146,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,16,4,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,17,3,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,18,14,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,19,89,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,20,144,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,21,92,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,22,12,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,23,83,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,24,2,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,25,20,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,26,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,27,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,28,0,256
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,29,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,0,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,1,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,2,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,3,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,4,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,5,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,6,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,7,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,8,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,9,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,10,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,11,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,12,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,13,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,14,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,15,29,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,16,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,17,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,18,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,19,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,20,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,21,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,22,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,23,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,24,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,25,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,26,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,27,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,28,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,29,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,0,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,1,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,2,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,3,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,4,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,5,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,6,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,7,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,8,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,9,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,10,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,11,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,12,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,13,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,14,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,15,18,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,16,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,17,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,18,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,19,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,20,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,21,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,22,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,23,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,24,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,25,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,26,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,27,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,28,0,256
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,29,0,256
+GLM-4.7-Flash,Original,1112,0,255,256
+GLM-4.7-Flash,Original,1112,1,25,256
+GLM-4.7-Flash,Original,1112,2,164,256
+GLM-4.7-Flash,Original,1112,3,57,256
+GLM-4.7-Flash,Original,1112,4,247,256
+GLM-4.7-Flash,Original,1112,5,252,256
+GLM-4.7-Flash,Original,1112,6,18,256
+GLM-4.7-Flash,Original,1112,7,214,256
+GLM-4.7-Flash,Original,1112,8,2,256
+GLM-4.7-Flash,Original,1112,9,47,256
+GLM-4.7-Flash,Original,1112,10,3,256
+GLM-4.7-Flash,Original,1112,11,83,256
+GLM-4.7-Flash,Original,1112,12,30,256
+GLM-4.7-Flash,Original,1112,13,1,256
+GLM-4.7-Flash,Original,1112,14,0,256
+GLM-4.7-Flash,Original,1112,15,180,256
+GLM-4.7-Flash,Original,1112,16,0,256
+GLM-4.7-Flash,Original,1112,17,6,256
+GLM-4.7-Flash,Original,1112,18,133,256
+GLM-4.7-Flash,Original,1112,19,189,256
+GLM-4.7-Flash,Original,1112,20,200,256
+GLM-4.7-Flash,Original,1112,21,29,256
+GLM-4.7-Flash,Original,1112,22,7,256
+GLM-4.7-Flash,Original,1112,23,80,256
+GLM-4.7-Flash,Original,1112,24,238,256
+GLM-4.7-Flash,Original,1112,25,68,256
+GLM-4.7-Flash,Original,1112,26,24,256
+GLM-4.7-Flash,Original,1112,27,0,256
+GLM-4.7-Flash,Original,1112,28,0,256
+GLM-4.7-Flash,Original,1112,29,0,256
+GLM-4.7-Flash,Original,1113,0,255,256
+GLM-4.7-Flash,Original,1113,1,19,256
+GLM-4.7-Flash,Original,1113,2,139,256
+GLM-4.7-Flash,Original,1113,3,64,256
+GLM-4.7-Flash,Original,1113,4,248,256
+GLM-4.7-Flash,Original,1113,5,248,256
+GLM-4.7-Flash,Original,1113,6,21,256
+GLM-4.7-Flash,Original,1113,7,206,256
+GLM-4.7-Flash,Original,1113,8,1,256
+GLM-4.7-Flash,Original,1113,9,51,256
+GLM-4.7-Flash,Original,1113,10,2,256
+GLM-4.7-Flash,Original,1113,11,88,256
+GLM-4.7-Flash,Original,1113,12,24,256
+GLM-4.7-Flash,Original,1113,13,1,256
+GLM-4.7-Flash,Original,1113,14,0,256
+GLM-4.7-Flash,Original,1113,15,169,256
+GLM-4.7-Flash,Original,1113,16,2,256
+GLM-4.7-Flash,Original,1113,17,10,256
+GLM-4.7-Flash,Original,1113,18,131,256
+GLM-4.7-Flash,Original,1113,19,188,256
+GLM-4.7-Flash,Original,1113,20,195,256
+GLM-4.7-Flash,Original,1113,21,28,256
+GLM-4.7-Flash,Original,1113,22,8,256
+GLM-4.7-Flash,Original,1113,23,81,256
+GLM-4.7-Flash,Original,1113,24,237,256
+GLM-4.7-Flash,Original,1113,25,47,256
+GLM-4.7-Flash,Original,1113,26,16,256
+GLM-4.7-Flash,Original,1113,27,1,256
+GLM-4.7-Flash,Original,1113,28,0,256
+GLM-4.7-Flash,Original,1113,29,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,0,114,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,1,119,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,2,75,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,3,40,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,4,136,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,5,211,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,6,5,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,7,97,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,8,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,9,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,10,4,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,11,12,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,12,4,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,13,2,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,14,0,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,15,176,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,16,0,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,17,9,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,18,61,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,19,86,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,20,62,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,21,31,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,22,6,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,23,28,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,24,71,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,25,14,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,26,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,27,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,28,0,256
+GLM-4.7-Flash,"Expert, 50% pruning",1112,29,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,0,113,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,1,114,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,2,80,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,3,35,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,4,123,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,5,199,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,6,3,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,7,100,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,8,0,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,9,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,10,0,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,11,16,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,12,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,13,10,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,14,0,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,15,182,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,16,0,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,17,11,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,18,68,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,19,91,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,20,73,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,21,31,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,22,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,23,23,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,24,68,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,25,14,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,26,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,27,1,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,28,0,256
+GLM-4.7-Flash,"Expert, 50% pruning",1113,29,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,0,19,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,1,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,2,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,3,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,4,28,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,5,51,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,6,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,7,2,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,8,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,9,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,10,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,11,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,12,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,13,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,14,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,15,54,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,16,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,17,1,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,18,1,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,19,1,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,20,1,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,21,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,22,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,23,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,24,1,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,25,2,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,26,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,27,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,28,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1112,29,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,0,30,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,1,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,2,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,3,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,4,26,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,5,50,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,6,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,7,2,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,8,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,9,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,10,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,11,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,12,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,13,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,14,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,15,32,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,16,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,17,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,18,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,19,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,20,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,21,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,22,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,23,1,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,24,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,25,2,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,26,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,27,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,28,0,256
+GLM-4.7-Flash,"FFN, 30% pruning",1113,29,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,0,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,1,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,2,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,3,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,4,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,5,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,6,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,7,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,8,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,9,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,10,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,11,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,12,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,13,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,14,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,15,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,16,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,17,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,18,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,19,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,20,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,21,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,22,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,23,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,24,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,25,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,26,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,27,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,28,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1112,29,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,0,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,1,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,2,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,3,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,4,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,5,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,6,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,7,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,8,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,9,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,10,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,11,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,12,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,13,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,14,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,15,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,16,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,17,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,18,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,19,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,20,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,21,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,22,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,23,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,24,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,25,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,26,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,27,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,28,0,256
+GLM-4.7-Flash,"Layer, 30% pruning",1113,29,0,256

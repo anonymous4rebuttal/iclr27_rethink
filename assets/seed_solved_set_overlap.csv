@@ -1,0 +1,13 @@
+backbone,configuration,seed,shared_solved,original_only,pruned_only,neither
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1112,27,0,2,1
+Qwen3.6-35B-A3B,"Expert, 50% pruning",1113,27,1,1,1
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1112,21,6,0,3
+Qwen3.6-35B-A3B,"FFN, 30% pruning",1113,23,5,0,2
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1112,1,26,0,3
+Qwen3.6-35B-A3B,"Layer, 30% pruning",1113,1,27,0,2
+GLM-4.7-Flash,"Expert, 50% pruning",1112,25,0,2,3
+GLM-4.7-Flash,"Expert, 50% pruning",1113,24,4,0,2
+GLM-4.7-Flash,"FFN, 30% pruning",1112,11,14,0,5
+GLM-4.7-Flash,"FFN, 30% pruning",1113,7,21,0,2
+GLM-4.7-Flash,"Layer, 30% pruning",1112,0,25,0,5
+GLM-4.7-Flash,"Layer, 30% pruning",1113,0,28,0,2

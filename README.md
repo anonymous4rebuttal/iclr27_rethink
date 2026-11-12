@@ -8,6 +8,7 @@ This gallery compares **Expert, FFN, and Layer pruning** through reasoning cover
 | Coverage and resource use | [Coverage versus resources](#coverage-and-resource-use), [runtime sweep](#resource-measurements-across-pruning-ratios) | [Coverage/resource CSV](assets/resource_quality.csv), [runtime CSV](assets/runtime_sweep.csv), [measurement details](assets/CAPTIONS.md) |
 | Output length, accuracy, and truncation | [Qwen task panels](#qwen-output-length-diagnostics), [GLM task panels](#glm-output-length-diagnostics) | [Length-diagnostic CSV](assets/length_diagnostics.csv), [definitions](assets/CAPTIONS.md) |
 | Temperature and code coverage | [GLM temperature controls](#glm-code-temperature-controls) | [Curves](assets/glm_code_temperature_curves.csv), [per-problem counts](assets/glm_code_temperature_question_counts.csv), [evaluation details](assets/GLM_CODE_TEMPERATURE.md) |
+| Independent sampling seeds | [AIME seed comparisons](#independent-generation-seeds) | [Run summaries](assets/seed_summary.csv), [curves](assets/seed_curves.csv), [per-question counts](assets/seed_question_counts.csv), [generation protocol](assets/INDEPENDENT_SEEDS.md) |
 | Newly covered problems | [Solution audit](#newly-covered-problems) | [Derivation checks and reproducible enumeration](assets/solution_audit.md) |
 
 ## Qwen: cumulative generation-token budget
@@ -107,6 +108,14 @@ The same panel definitions and 8,192-token limit apply to GLM. All pass@k values
 [PNG](assets/glm_code_temperature.png) · [PDF](assets/glm_code_temperature.pdf) · [SVG](assets/glm_code_temperature.svg) · [Summary CSV](assets/glm_code_temperature_summary.csv) · [Full curves](assets/glm_code_temperature_curves.csv)
 
 **Higher temperature lowers single-attempt accuracy while increasing coverage at 256 attempts.** For GLM-4.7-Flash with 50% expert pruning, raising temperature from 0.1 to 0.9 changes pass@1 from 24.86% to 21.26% and pass@256 from 49.14% to 55.43%. All five temperatures use the same evaluator and test suite on 175 LiveCodeBench-v6 problems, with an 8,192-token output limit. The common endpoint is k = 256; temperature 0.7 has 512 responses per problem and the others have 256. See the [evaluation conditions](assets/GLM_CODE_TEMPERATURE.md) for test timeouts, scoring parallelism, and timing sensitivity.
+
+## Independent generation seeds
+
+![AIME pass@k curves for two independent generation seeds, comparing Original, Expert, FFN, and Layer](assets/aime_independent_seeds.png)
+
+[PNG](assets/aime_independent_seeds.png) · [PDF](assets/aime_independent_seeds.pdf) · [Editable SVG](assets/aime_independent_seeds.svg) · [Summary CSV](assets/seed_summary.csv) · [Full curves](assets/seed_curves.csv)
+
+Each configuration has **two independent generation runs**, using seeds 1112 and 1113. Each run generates 256 new responses for each of the 30 AIME 2026 problems, with an 8,192-token output limit, temperature 0.7, top-p 0.95, decoding top-k 20, and repetition penalty 1.0. Colors identify structures; solid and dashed lines show the two seeds separately. Pass@256 is the fraction of problems solved at least once in that run. The [protocol and endpoint table](assets/INDEPENDENT_SEEDS.md) give all 16 results. [Per-question success counts](assets/seed_question_counts.csv) and [original/pruned solved-set overlap](assets/seed_solved_set_overlap.csv) are also available.
 
 ## Newly covered problems
 
