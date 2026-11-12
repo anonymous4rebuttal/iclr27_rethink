@@ -1,0 +1,31 @@
+{
+  "dataset": "AIME 2026",
+  "question_count": 30,
+  "saved_candidates_per_question": 2048,
+  "batch_size": 32,
+  "original_max_output_tokens_per_candidate": 8192,
+  "batch_order_repetitions": 1000,
+  "seed": 20261112,
+  "budgets_output_tokens_per_question": [
+    262144,
+    311744,
+    370728,
+    440872,
+    524288,
+    623487,
+    741455,
+    881744,
+    1048576,
+    1246974,
+    1482910,
+    1763488,
+    2097152
+  ],
+  "main_majority_key": "verbatim saved extracted answer key",
+  "uncertainty": "central 95% batch-order range, not independent generation-seed confidence interval",
+  "token_cost": "exact recorded complete-batch costs plus simulated partial boundary-batch spend",
+  "script_sha256": "d5f3bc5c10c1e087763f1d214b76d67477743e78edc2b189b29eab8abe1748cf",
+  "source_hashes_verified": true,
+  "source_counts_and_token_totals_verified": true,
+  "source_pool_exhaustion": false
+}
